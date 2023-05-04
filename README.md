@@ -32,5 +32,24 @@ This is a web application designed to manage student results for JEE (Joint Entr
 
 + Users can also create accounts by clicking on the "Sign Up" link in the navigation bar.
 
+## ScreenShots:
+#### Login Page
+![image](https://user-images.githubusercontent.com/77999196/236283775-3f144f7b-09b7-4146-b538-9b3af73801e6.png)
+
+#### Signup Page
+![image](https://user-images.githubusercontent.com/77999196/236284180-bdf17bd6-38a4-46bc-af34-31ec2050d2fa.png)
+
+#### Teacher Dashboard
+![image](https://user-images.githubusercontent.com/77999196/236284442-5a86d5c6-817b-48a9-9f8d-d15cea1fac56.png)
+
+#### View Students List
+![image](https://user-images.githubusercontent.com/77999196/236286650-99e17f6c-75fa-4745-b71a-1aec2844620b.png)
+
+#### Insert Result
+![image](https://user-images.githubusercontent.com/77999196/236286913-db9901e6-434d-4f2f-a85d-d3af1ec0320b.png)
+
+#### Student Dashboard (View Result)
+![image](https://user-images.githubusercontent.com/77999196/236287273-fe507545-781d-4e17-8ad7-86badf5fb616.png)
+
 
 
