@@ -24,11 +24,10 @@ This is a web application designed to manage student results for JEE (Joint Entr
 - Access the application using the following URL:
     http://localhost:8080/student-result-management-system/
 
-+ The home page will have a login form. Use the following credentials to log in:
-
-+ Username: salahb
-+ Password: 123456
-+ Once logged in, teachers can insert student results by clicking on the "Insert Result" link in the navigation bar. Students can view their results by clicking + + on the "View Result" link and entering their roll number.
++ The home page will have a login form. Use the following credentials to log in:<br>
+       Username: salahb
+   <br>Password: 123456
++ Once logged in, teachers can insert student results by clicking on the "Insert Result" link in the navigation bar. Students can view their results by clicking   on the "View Result" link and entering their roll number.
 
 + Users can also create accounts by clicking on the "Sign Up" link in the navigation bar.
 
