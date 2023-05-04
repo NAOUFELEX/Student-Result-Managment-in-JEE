@@ -48,7 +48,6 @@ This is a web application designed to manage student results for JEE (Joint Entr
 ![image](https://user-images.githubusercontent.com/77999196/236286913-db9901e6-434d-4f2f-a85d-d3af1ec0320b.png)
 
 #### Student Dashboard (View Result)
-![image](https://user-images.githubusercontent.com/77999196/236287273-fe507545-781d-4e17-8ad7-86badf5fb616.png)
-
+![image](https://user-images.githubusercontent.com/77999196/236306576-b370f2ab-58e8-438f-b37c-97c53a51333c.png)
 
 
