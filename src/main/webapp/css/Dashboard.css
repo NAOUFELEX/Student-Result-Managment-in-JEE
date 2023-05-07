@@ -1,1 +1,49 @@
 
+/* CSS for Student Dashboard */
+
+/* Overall page styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+h3 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+table {
+  margin: 0 auto;
+  width: 70%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+table th {
+  background-color: #f9f9f9;
+  font-weight: bold;
+  color: #333;
+}
